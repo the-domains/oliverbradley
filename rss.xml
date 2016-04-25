@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[oliverbradley]]></title>
-        <description><![CDATA[oliverbradley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[OliverBradley]]></title>
+        <description><![CDATA[OliverBradley]]></description>
+        <link>https://thegrid.ai/oliverbradley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 15:02:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 15:10:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oliverbradley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9413176-e352-41e7-a9d0-d737b082a94c.jpg">]]></description>
-            <link>undefinedscience-and-tech-from-toronto/index.html</link>
+            <link>https://thegrid.ai/oliverbradley/science-and-tech-from-toronto/index.html</link>
             <guid isPermaLink="false">a75c743f-cdfb-473e-8b23-83703f355afd</guid>
-            <pubDate>Mon, 25 Apr 2016 15:02:41 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 15:10:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
