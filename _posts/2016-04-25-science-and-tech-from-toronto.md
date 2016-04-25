@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Science and Tech from Toronto
-datePublished: '2016-04-25T15:02:41.423Z'
-dateModified: '2016-04-25T15:01:52.388Z'
+datePublished: '2016-04-25T15:10:14.518Z'
+dateModified: '2016-04-25T15:02:49.579Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-science-and-tech-from-toronto.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-science-and-tech-from-toronto.md
-published: true
 url: science-and-tech-from-toronto/index.html
 _type: Article
 
