@@ -1,6 +1,6 @@
-name: oliverbradley
+name: OliverBradley
 favicon: null
-layout_spectrum: 0.51016
+layout_spectrum: 0
 typography_spectrum: 0.25355
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#858c91'
     - '#576d79'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.375
   saturation: 0.16001995163969696
   rhythmicContrast: 0.21170819993130863
 purpose: []
